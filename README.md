@@ -68,3 +68,13 @@ npm run start or npm start
 5.书写react代码
 cnpm install --save react  react-dom
 ```
+
+# 脚手架中使用router和组件书写
+- React创建组件的三种方式及其区别
+https://www.cnblogs.com/wonyun/p/5930333.html
+
+- react exact 路由严格匹配
+http://blog.csdn.net/mapbar_front/article/details/72832057
+```
+npm install --save react-router react-router-dom
+```

@@ -1,3 +1,4 @@
+//原生js写法
 function createElement(){
     let element = document.createElement('div')
     element.innerHTML = `
