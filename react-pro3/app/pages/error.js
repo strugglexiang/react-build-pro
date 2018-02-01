@@ -4,9 +4,8 @@ export default class extends React.Component{
     render(){
         return (
             <div>
-               默认页面A
+                404页面
             </div>
         )
     }
 }
-
